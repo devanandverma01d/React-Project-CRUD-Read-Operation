@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Project-CRUD-Read-Operation/static/css/main.c2cab247.css",
+    "main.js": "/React-Project-CRUD-Read-Operation/static/js/main.82fc277f.js",
+    "index.html": "/React-Project-CRUD-Read-Operation/index.html",
+    "main.c2cab247.css.map": "/React-Project-CRUD-Read-Operation/static/css/main.c2cab247.css.map",
+    "main.82fc277f.js.map": "/React-Project-CRUD-Read-Operation/static/js/main.82fc277f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.82fc277f.js"
+  ]
+}
